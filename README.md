@@ -1,7 +1,7 @@
 # forest-GIS-ML:
 
-# 1![232376764-ff945451-77a3-46fa-9bbe-654ed4ee7170](https://github.com/shumshersubashgautam/Forest-ML_Geospatial_Data/assets/51912776/ff2d6b96-9c84-406d-b2c4-13617961532d)
- Overview [ Step 1: Scope ]
+# ![232376764-ff945451-77a3-46fa-9bbe-654ed4ee7170](https://github.com/shumshersubashgautam/Forest-ML_Geospatial_Data/assets/51912776/ff2d6b96-9c84-406d-b2c4-13617961532d)
+ 1.Overview [ Step 1: Scope ]
 This research is about forest productivity, identifying the conditioning factors such
 as: climatic variables derived from rainfall and temperatures, topographic attributes derived from digital
 elevation model, edaphic attributes (geology composition and soil attributes) that contribute to explain
